@@ -2,3 +2,6 @@ marquee {
     direction: left;
     text-decoration-color: aqua;
 }
+myNavbar{
+    position: sticky;
+}
