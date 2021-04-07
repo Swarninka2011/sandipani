@@ -5,3 +5,47 @@ marquee {
 myNavbar{
     position: sticky;
 }
+img
+{
+    height: 500;
+    width: 500;
+}
+h1
+{
+    font-family: monospace;
+    font-size: 50;
+    color: aqua;
+}
+h2
+{
+    font-family: cursive;
+    color: white;
+}
+h3
+{
+    font-family: sans-serif;
+    color: white;
+}
+h4
+{
+    color: yellow;
+    font-size: 20;
+}
+p
+{
+    color: lawngreen;
+    font-family: cursive;
+}
+hr
+{
+    color: orangered;
+}
+p1
+{
+    color:lawngreen;
+}
+h5
+{
+    font-family: monospace;
+    color: springgreen
+}
